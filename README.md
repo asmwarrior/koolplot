@@ -1,1 +1,4 @@
 # koolplot
+The original koolplot source code is from: [Simplest Graph Plotting for C or C++](http://koolplot.codecutter.org/).
+
+Later, someone modified the code, see here: [How to build a koolplot library using VC++ 2010](https://stackoverflow.com/questions/18061063/how-to-build-a-koolplot-library-using-vc-2010). In this repo, the source code is mainly modified from the zip file I downloaded from [koolplot-heha.zip](https://www-user.tu-chemnitz.de/~heha/hs/koolplot-heha.zip), this file contains several sub-folders for Visual Studio C++ 6.0, 2008 and 2017. I have modified the code from the the projects for msvc6, and the Code::Blocks project file(cbp) is supplied.
